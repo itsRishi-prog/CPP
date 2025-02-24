@@ -25,7 +25,9 @@ void sort012(vector<int>& nums){
             low++;
             mid++;
         }
+        else mid++;
     }
+    return;
 }
 int main(){
     vector<int> nums;
