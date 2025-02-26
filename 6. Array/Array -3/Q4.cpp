@@ -1,4 +1,4 @@
-// Merge two sorted arrays.
+// Merge two sorted arrays. [leetcode - 88]
 #include<iostream>
 #include<vector>
 using namespace std;
